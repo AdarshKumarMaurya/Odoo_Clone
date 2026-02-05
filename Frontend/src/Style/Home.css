@@ -1,0 +1,28 @@
+#setFooterinHome{
+    padding-top: 30px;
+}
+
+#setHeaderinHome{
+    margin-top: 0px;
+    position: fixed;
+    z-index: 1;
+}
+
+#setMaininHome{
+    margin-top: -30px;
+}
+
+#setDownloadTheAppinHome{
+    position: relative;
+    margin-left: -8px;
+}
+
+#BodyHome{
+    overflow-x: hidden;
+}
+
+@media screen and (min-width: 480px) {
+    .main {
+      background-color: aqua;
+    }
+  }
